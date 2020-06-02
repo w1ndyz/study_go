@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	comma("12345")
+	comma("123456789")
 }
 
 func comma(s string) {
